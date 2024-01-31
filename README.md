@@ -1,4 +1,4 @@
-# Análise e reconhecimento para a transformação de imagens em dados
+# Análise e reconhecimento para a transformação de imagens em dados - Azure Visual Studio
 
 Neste módulo algumas habilidades foram trabalhadas, como a aplicação do Azure Vision Studio, para a manipulação de imagens.
 Alguns exercícios trataram o reconhecimento de faces, a partir da plataforma, porém, nesse exercício foram aplicados exemplos 

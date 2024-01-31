@@ -14,5 +14,10 @@ para dados em formato de texto. As figuras a seguir demonstram os resultados ati
 ## Resultado para a terceira imagem:
 <img src="outputs/resultado_receipt.png"/>
 
+Para realizar este execício é preciso que na página portal.vision.cognitive.azure.com, a partir de uma conta Azure, seja criado um resource 
+para executar a ferramenta de reconhecimento no Vision Studio Azure, através da aba "Optical character recognition", se o objetivo for extrair textos de imagens; 
+ou na aba "Face", se o objetivo for o reconhecimento facial.
+
+
 
 

@@ -1,12 +1,12 @@
-# analise_documentos_azure
+# Análise e reconhecimento de texto em imagens
 
-#Resultado para a primeira imagem:
+## Resultado para a primeira imagem:
 <img src="outputs/resultado_unicapLogo.png"/>
 
-#Resultado para a segunda imagem:
+## Resultado para a segunda imagem:
 <img src="outputs/resultado_letter.png"/>
 
-#Resultado para a terceira imagem:
+## Resultado para a terceira imagem:
 <img src="outputs/resultado_receipt.png"/>
 
 
